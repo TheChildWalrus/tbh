@@ -2,13 +2,13 @@
 ## Eclipse
 #################
 
-*
-!gradlew
-!gradlew.bat
-!build.gradle
-!build.bat
-!gradle/
-!src/
+tbh/*
+!tbh/gradlew
+!tbh/gradlew.bat
+!tbh/build.gradle
+!tbh/build.bat
+!tbh/gradle/
+!tbh/src/
 
 # Windows image file caches
 Thumbs.db
