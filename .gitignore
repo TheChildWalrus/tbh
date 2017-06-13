@@ -1,3 +1,15 @@
+#################
+## Eclipse
+#################
+
+*
+!gradlew
+!gradlew.bat
+!build.gradle
+!build.bat
+!gradle/
+!src/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
